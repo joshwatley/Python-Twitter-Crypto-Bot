@@ -1,7 +1,5 @@
 # Python-Twitter-Crypto-Bot
 
-TOO BE COMPLETED
-
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
